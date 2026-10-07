@@ -1,0 +1,20 @@
+name: gitpulse-mcp
+displayName: GitPulse - Autonomous Git, PR Reviewer & ReleaseOps MCP
+description: Universal Git & ReleaseOps assistant for Cursor, Claude & Windsurf. Generates semantic Conventional Commits from git diffs, performs automated PR code reviews, builds SemVer changelogs, and generates multi-stack .gitignore files.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/gitpulse-mcp
+repository: https://github.com/AmyGraphics/gitpulse-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/gitpulse-mcp/main/icon.png
+keywords:
+  - git
+  - conventional-commits
+  - pr-review
+  - changelog-generator
+  - semver
+  - gitignore-generator
+  - releaseops
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://gitpulse-api.agentweb-hub.workers.dev/mcp

@@ -1,0 +1,9 @@
+{
+  "name": "gitpulse-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Git, PR Reviewer, Conventional Changelog & ReleaseOps MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
