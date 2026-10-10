@@ -12,6 +12,10 @@ Universal Autonomous Git Engineer, PR Reviewer, Conventional Commit & ReleaseOps
 `https://gitpulse-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live GitHub Repo Intelligence
+
+`analyze_repo_live` queries the **official GitHub REST API in real time**: current stars, forks, issues, license, topics, archive status and push timestamps — then computes an activity-health read and a maintenance verdict (actively maintained / slowing / dormant / archived). Real-time data an LLM cannot know from memory.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
